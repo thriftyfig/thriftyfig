@@ -1,6 +1,6 @@
 # thriftyfig
 
-**Verified skills. Thrifty stacks.**
+I built this because I was tired of installing agent skills that never ran, and tired of overpaying for AI subscriptions without a clear checklist.
 
 ThriftyFig · A thoughtful stack starts here.
 
