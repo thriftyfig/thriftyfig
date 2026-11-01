@@ -1,16 +1,15 @@
-## Hi there 👋
+# thriftyfig
 
-<!--
-**thriftyfig/thriftyfig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Useful skills. Thrifty stacks.**
 
-Here are some ideas to get you started:
+ThriftyFig · A thoughtful stack starts here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[How to find tested agent skills](https://thriftyfig.pages.dev/tasks/find-tested-agent-skills/) — the catalog has **24 fully-tested skills**.
+
+## Tasks
+
+- [AI code review before merge](https://thriftyfig.pages.dev/tasks/ai-code-review-before-merge/)
+- [Auto-test your web app with AI](https://thriftyfig.pages.dev/tasks/auto-test-your-web-app/)
+- [Extract data from PDFs with AI](https://thriftyfig.pages.dev/tasks/extract-data-from-pdfs/)
+- [Find tested agent skills](https://thriftyfig.pages.dev/tasks/find-tested-agent-skills/)
+- [Try free skills before paid packs](https://thriftyfig.pages.dev/tasks/free-skills-before-paid-packs/)
