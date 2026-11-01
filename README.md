@@ -1,6 +1,6 @@
 # thriftyfig
 
-**Useful skills. Thrifty stacks.**
+**Verified skills. Thrifty stacks.**
 
 ThriftyFig · A thoughtful stack starts here.
 
